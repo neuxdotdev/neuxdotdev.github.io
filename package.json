@@ -1,0 +1,30 @@
+{
+  "name": "neuxdotdev.github.io",
+  "version": "1.0.0",
+  "description": "index repo for neuxdotdev",
+  "keywords": [
+    "docs",
+    "index"
+  ],
+  "homepage": "https://github.com/neuxdotdev/neuxdotdev.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/neuxdotdev/neuxdotdev.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuxdotdev/neuxdotdev.github.io.git"
+  },
+  "license": "MIT",
+  "author": "neuxdotdev <neuxdev1@gmail.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.10",
+    "docsify-cli": "^4.4.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
