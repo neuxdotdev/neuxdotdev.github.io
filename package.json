@@ -1,0 +1,12 @@
+{
+  "name": "neuxdotdev.github.io",
+  "packageManager": "yarn@4.11.0",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.10",
+    "docsify-cli": "^4.4.4",
+    "ts-node": "^10.9.2"
+  }
+}
