@@ -1,3 +1,21 @@
+commit 0552d51b6a658d9fceb86531d91511ce6967007c
+Author: neuxdotdev <neuxdev1@gmail.com>
+Date:   Thu Jan 29 23:18:22 2026 +0700
+
+    refactor: remake documentation
+
+commit bad537b843ba3fcc8cc24fd6b8db94a6bd454a64
+Author: neuxdotdev <neuxdev1@gmail.com>
+Date:   Thu Jan 29 23:13:20 2026 +0700
+
+    docs: add documentation for rcgen
+
+commit 430b43b5657da8fc11e2edde5a97e85ab4e8d9f5
+Author: neuxdotdev <neuxdev1@gmail.com>
+Date:   Thu Jan 29 17:08:53 2026 +0700
+
+    refactor: remake documentation
+
 commit efbd0ab1949c5cfaaf9f47e068c0bb8347949c8e
 Author: neuxdotdev <neuxdev1@gmail.com>
 Date:   Thu Jan 29 15:16:52 2026 +0700
